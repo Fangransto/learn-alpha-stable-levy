@@ -1,2 +1,2 @@
 # learn-levy
-article code
+article code (ing)
