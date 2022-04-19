@@ -1,7 +1,7 @@
 # learn-levy
-article code (ing)
+Article code (ing)
 
-An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Lévy noise
+"An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Lévy noise"
 
 python packages version:
 
