@@ -1,5 +1,5 @@
 # learn-levy
-Article code (ing)
+Article code 
 
 "An end-to-end deep learning approach for extracting stochastic dynamical systems with α-stable Lévy noise"
 
